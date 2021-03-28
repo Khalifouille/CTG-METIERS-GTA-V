@@ -12,3 +12,8 @@ A VENIR :
 - Automatisation compléte pour les jobs
 - Possibilité de courir/conduire d'un point A  un point B prédéfini par l'utilisateur
 - Plus de fonctions
+
+TOUCHES : 
+
+- F3 : Lancer le click auto pour les jobs
+- F4 : Fermer le script

@@ -10,4 +10,5 @@ A VENIR :
 
 - Nouveau design
 - Automatisation compléte pour les jobs
-- Possibilité de courir/conduire d'un point A  un point B prédéfini 
+- Possibilité de courir/conduire d'un point A  un point B prédéfini par l'utilisateur
+- Plus de fonctions
